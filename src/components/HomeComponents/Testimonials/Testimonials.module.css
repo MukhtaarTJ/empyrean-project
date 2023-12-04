@@ -1,0 +1,13 @@
+.testimonial {
+  background-color: #7acbce;
+  padding: 100px;
+}
+
+.testimonial_container {
+  background-color: #fff;
+  padding: 30px 100px;
+}
+
+.entry_text {
+  font-size: 40px;
+}
