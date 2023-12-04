@@ -1,0 +1,29 @@
+.about_background{
+    background-color: #f1e9e4;
+}
+.imageContainer {
+    max-width: 100%;
+  }
+  .textContainer {
+    padding-top: -60px; 
+    padding-bottom: 30px;
+  }
+  .paragraph_text{
+    font-family: "poppins";
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: justify;
+  }
+  
+@media (max-width: 767px) {
+    .imageContainer {
+    
+      text-align: center; 
+    }
+    img{
+    max-width: 200px;
+    }
+  }
+  

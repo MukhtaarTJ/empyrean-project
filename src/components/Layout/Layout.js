@@ -9,7 +9,7 @@ const Layout = () => {
       <header>
         <MainNav />
       </header>
-      <main>
+      <main >
         <AppRoutes />
       </main>
       <footer>
